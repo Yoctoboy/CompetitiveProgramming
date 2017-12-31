@@ -27,14 +27,5 @@ typedef pair<int,int> pii;
 #define IN(n) scanf("%d", &(n))
 
 int main(){
-	int n;
-	char c;
-	cin >> n;
-	int dp[5010][5010];
-	memset(dp, 0, 5010*5010*sizeof(int));
-	//dp[i][j] = nombre de manières d'avoir le ième élément à l'indentation j
-	FOR(i, 1, n+1){
-		cin >> c;
-		
-	}
+
 }
