@@ -1,4 +1,4 @@
 # Competitive Programming
 
-Solutions to some problems you can find online. Only the most interesting ones.<br>
+Solutions to some problems you can find online.<br>
 Contact : alexis.reymann@telecom-paristech.fr
