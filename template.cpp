@@ -25,6 +25,7 @@ typedef pair<int,int> pii;
 #define SCI(n) int (n); scanf("%d", &(n))
 #define SCL(n) ll (n); scanf("%I64d", &(n))
 #define IN(n) scanf("%d", &(n))
+#define pb push_back
 
 int main(){
 
