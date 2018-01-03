@@ -168,12 +168,11 @@ void solver() {
 	}
 }
 
-int main()
-{
+int main() {
 	cin >> n >> m;
 	while (n != 0) {
 		solver();
 		cin >> n >> m;
 	}
-    return 0;
+	return 0;
 }
