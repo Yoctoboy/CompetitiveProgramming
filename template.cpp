@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <algorithm>
+#include <set>
 #include <vector>
 #include <cstring>
 #include <iostream>
@@ -16,6 +17,7 @@ using namespace std;
 typedef long long ll;
 typedef long double ld;
 typedef pair<int,int> pii;
+typedef pair<ll, ll> pll;
 
 #define FOR(i, a, b) for (int i = (a); i < (b); i++)
 #define REP(i, n) FOR(i, 0, n)
@@ -25,6 +27,7 @@ typedef pair<int,int> pii;
 #define SCI(n) int (n); scanf("%d", &(n))
 #define SCL(n) ll (n); scanf("%I64d", &(n))
 #define IN(n) scanf("%d", &(n))
+#define INL(n) scanf("%I64d", &(n))
 #define pb push_back
 
 int main(){
